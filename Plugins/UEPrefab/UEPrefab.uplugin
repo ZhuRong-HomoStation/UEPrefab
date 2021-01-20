@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UEPrefab",
+	"Description": "Prefab for unreal engine",
+	"Category": "Other",
+	"CreatedBy": "ZhuRong",
+	"CreatedByURL": "https://github.com/ZhuRong-HomoStation/UEPrefab",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UEPrefab",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "UEPrefabEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
